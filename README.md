@@ -7,7 +7,7 @@ To start off, follow these guidelines:
 * Simplify code wherever possible.
   Max Kanat-Alexander said it well:
   “How Simple Do You Have to Be?
-  […] Stupid, dumb simple.”
+  […] *Stupid, dumb simple*.”
   (From [Code Simplicity](http://www.codesimplicity.com/book/))
 * Be consistent.
 * Don’t rewrite existing code to follow these standards,
