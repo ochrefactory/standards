@@ -5,7 +5,8 @@ To start off, follow these guidelines:
 
 * Write readable code.
 * Simplify code wherever possible.
-  Max Kanat-Alexander said it well: “How Simple Do You Have to Be?
+  Max Kanat-Alexander said it well:
+  “How Simple Do You Have to Be?
   […] Stupid, dumb simple.”
   (From [Code Simplicity](http://www.codesimplicity.com/book/))
 * Be consistent.
@@ -17,7 +18,29 @@ To start off, follow these guidelines:
   make sure you are doing it to uphold readability and simplicity,
   or at least make sure you can convince a teammate.
 
-## Comments
+## General Rules
+
+### Spacing
+
+Here are some global rules for whitespace
+which may be overridden,
+depending on the language:
+
+* Use spaces, not tabs. (notable exception: Makefiles)
+* Use 2 spaces for indentation
+* Keep line-lengths below 80 characters when possible.
+* In documentation, prose and comments,
+  use [semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/)
+
+### Documentation
+
+Wherever possible, write top-level documentation for projects.
+
+* Take the opportunity to concisely explain your purpose.
+* Write basic usage documentation when appropriate.
+* *Never* let documentation get out of sync with existing code.
+
+### Comments
 
 * Use comments in your code to explain the “why,”
   and the “how” should be clear from your code.
@@ -27,13 +50,9 @@ To start off, follow these guidelines:
   comments and code should never be in conflict.
 * Never comment out code: that’s what git is for.
 
-## Documentation
+## Language-specific standards
 
-Wherever possible, write top-level documentation for projects.
-
-* Take the opportunity to concisely explain your purpose.
-* Write basic usage documentation when appropriate.
-* *Never* let documentation get out of sync with existing code.
+* [Ruby](/ruby.md)
 
 ## Interesting reading, works cited:
 
