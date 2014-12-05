@@ -17,6 +17,24 @@ To start off, follow these guidelines:
   make sure you are doing it to uphold readability and simplicity,
   or at least make sure you can convince a teammate.
 
+## Comments
+
+* Use comments in your code to explain the “why,”
+  and the “how” should be clear from your code.
+  Short use-case examples are also appropriate as comments.
+
+* *Always* keep your comments up-to-date:
+  comments and code should never be in conflict.
+* Never comment out code: that’s what git is for.
+
+## Documentation
+
+Wherever possible, write top-level documentation for projects.
+
+* Take the opportunity to concisely explain your purpose.
+* Write basic usage documentation when appropriate.
+* *Never* let documentation get out of sync with existing code.
+
 ## Interesting reading, works cited:
 
 * Max Kanat-Alexander’s [Code Simplicity](http://www.codesimplicity.com/book/)
