@@ -53,6 +53,7 @@ Wherever possible, write top-level documentation for projects.
 ## Language-specific standards
 
 * [Ruby](/ruby.md)
+* [CSS](/css.md)
 
 ## Interesting reading, works cited:
 
