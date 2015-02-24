@@ -54,6 +54,7 @@ Wherever possible, write top-level documentation for projects.
 
 * [Ruby](/ruby.md)
 * [CSS](/css.md)
+* [Swift](/swift.md)
 
 ## Interesting reading, works cited:
 
