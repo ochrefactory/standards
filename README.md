@@ -52,8 +52,9 @@ Wherever possible, write top-level documentation for projects.
 
 ## Language-specific standards
 
-* [Ruby](/ruby.md)
 * [CSS](/css.md)
+* [JavaScript](/javascript.md)
+* [Ruby](/ruby.md)
 * [Swift](/swift.md)
 
 ## Interesting reading, works cited:
