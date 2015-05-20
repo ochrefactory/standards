@@ -27,3 +27,6 @@ Prefer structs to classes.
 
 Prefer completion blocks over NSNotificationCenter
 for asynchronous code.
+
+Prefer `() -> Void` over `() -> ()`
+(from [Swift: () -> () vs () -> Void](http://ericasadun.com/2015/05/11/swift-vs-void/))
